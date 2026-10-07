@@ -1,0 +1,21 @@
+# Ambientes Virtuais (NUNCA commitar, pois são específicos de cada computador)
+.venv/
+venv/
+env/
+ENV/
+
+# Caches do Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Configurações de IDE / Editor
+.vscode/
+.idea/
+
+# Arquivos de log e temporários
+*.log
+*.tmp
+
+# Opcional: Se preferir distribuir o executável via GitHub Releases ao invés de no repositório:
+# AutoMacroStudio.exe
